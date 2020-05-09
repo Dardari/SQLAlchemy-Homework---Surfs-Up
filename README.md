@@ -12,7 +12,7 @@ Add your Jupyter notebook and app.py to this folder. These will be the main scri
 
 Push the above changes to GitHub or GitLab.
 
-
+![Image description](https://github.com/Dardari/SQLAlchemy-Homework---Surfs-Up/blob/master/Images/surfs-up.png)
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
@@ -50,6 +50,9 @@ Sort the DataFrame values by date.
 
 Plot the results using the DataFrame plot method.
 
+![Image description](https://github.com/Dardari/SQLAlchemy-Homework---Surfs-Up/blob/master/Images/precipitation.png)
+
+
 Use Pandas to print the summary statistics for the precipitation data.
 
 
@@ -81,6 +84,10 @@ Filter by the station with the highest number of observations.
 
 
 Plot the results as a histogram with bins=12.
+
+
+![Image description](https://github.com/Dardari/SQLAlchemy-Homework---Surfs-Up/blob/master/Images/station-histogram.png)
+
 
 Step 2 - Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
