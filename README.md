@@ -201,6 +201,7 @@ Use the average temperature as the bar height.
 
 Use the peak-to-peak (TMAX-TMIN) value as the y error bar (YERR).
 
+![Image description](https://github.com/Dardari/SQLAlchemy-Homework---Surfs-Up/blob/master/Images/temperature.png)
 
 Daily Rainfall Average
 
@@ -221,4 +222,10 @@ Load the list of daily normals into a Pandas DataFrame and set the index equal t
 
 
 Use Pandas to plot an area plot (stacked=False) for the daily normals.
+
+![Image description](https://github.com/Dardari/SQLAlchemy-Homework---Surfs-Up/blob/master/Images/daily-normals.png)
+
+Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
+
 
